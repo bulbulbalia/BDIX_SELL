@@ -115,100 +115,44 @@ https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 #EXTINF: -1 group-title="BDIX_BANGLA_HD", MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
-#EXTINF: -1 tvg-chno="1" group-title="BDIX_MIXED_HD", T_SPORTS_HD
-http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Gazi TV(amrbd)
-http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", ATN Bangla(amrbd)
-http://103.136.200.246:8082/ATN-Bangla/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Somoy TV(amrbd)
-http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Ekahtor TV(amrbd)
-http://103.136.200.246:8082/Ekattor-tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", ATN News(amrbd)
-http://103.136.200.246:8082/Atn-News/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Independent TV(amrbd)
-http://103.136.200.246:8082/Independent-Tv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Channel24(amrbd)
-http://103.136.200.246:8082/Channel24/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", News24(amrbd)
-http://103.136.200.246:8082/News24bd/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", DBC News(amrbd)
-http://103.136.200.246:8082/DBC-NEWS/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Channel I(amrbd)
-http://103.136.200.246:8082/Channel-i/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Ekushay TV(amrbd)
-http://103.136.200.246:8082/Ekushey-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", NTV(amrbd)
-http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", RTV(amrbd)
-http://103.136.200.246:8082/RTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", SATV(amrbd)
-http://103.136.200.246:8082/SATV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Mohona TV(amrbd)
-http://103.136.200.246:8082/MohonaTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", My TV(amrbd)
-http://103.136.200.246:8082/MyTV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Anando TV(amrbd)
-http://103.136.200.246:8082/anandotv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Bangla Vision(amrbd)
-http://103.136.200.246:8082/BanglaVision/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Nagorik TV(amrbd)
-http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Bijoy TV(amrbd)
-http://103.136.200.246:8082/BijoyTv/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Boishakhi TV(amrbd)
-http://103.136.200.246:8082/Boishakhi/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Nexus TV HD
-http://103.55.144.46/hls/nexus.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Gaan Bangla(amrbd)
-http://103.136.200.246:8082/GaanBangla/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony Aath(amrbd)
-http://103.136.200.246:8082/Sonyaath/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Star Jalsha(amrbd)
-http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Zee Bangla HD(amrbd)
-http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Colors Bangla(amrbd)
-http://103.136.200.246:8082/colorsbangla/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Jalsha Movies HD(amrbd)
-http://103.136.200.246:8082/Jalshamovies/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony TV(amrbd)
-http://103.136.200.246:8082/SonyTVHD/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Colors(amrbd)
-http://103.136.200.246:8082/colorsindia/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Zee Cinema HD(amrbd)
-http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Star Gold(amrbd)
-http://103.136.200.246:8082/StarGold/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", SONY Max(amrbd)
-http://103.136.200.246:8082/Sony-Max/index.m3u8
-#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony Pix(amrbd)
-http://103.136.200.246:8082/SonyPix/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/sUpvnQ7.png" group-title="BDIX_MIXED_HD", GP:E-&TV HD
-http://89.187.162.109/ANDTVHD/mono.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/sUpvnQ7.png" group-title="BDIX_MIXED_HD", GP:E-&TV HD
-http://208.86.19.13:81/703.stream/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="BDIX_MIXED_HD", GP:E-Star Bharat HD
-http://89.187.162.109/STARBHARATHD/mono.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="BDIX_MIXED_HD", GP:E-Star Bharat HD
-http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/TBwHZ9k.png" group-title="BDIX_MIXED_HD", GP:B-STAR PLUS
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/yUla5jG.png" group-title="BDIX_MIXED_HD", GP:C-STAR PLUS
-http://89.187.162.109/STARPLUSHD/mono.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="BDIX_MIXED_HD", GP:B-ZEE TV HD
-http://208.115.215.42:80/ZEE_Tv_HD_02/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="BDIX_MIXED_HD", GP:C-ZEE TV HD
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="BDIX_MIXED_HD", GP:B-Sony HD
-http://103.136.200.246:8082/SonyTVHD/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="BDIX_MIXED_HD", GP:D-SONY HD
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="BDIX_MIXED_HD", GP:B-Sony Sab HD
-http://103.136.200.246:8082/Sony_Sab/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="BDIX_MIXED_HD", GP:D-SONY SAB HD
-http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", COLORS_BANGLA_HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", ZEE_BANGLA_CINEMA_HD
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", STAR_PLUS_HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", ZEE_TV_HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", COLORS_HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", SONY_TV_HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", SONY_SAB_HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", STAR_GOLD_HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", STAR_GOLD_SELECT_HD
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", ZEE_CINEMA_HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", SONY_MAX_HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", SONY_MAX_2_HD
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", STAR_MOVIES_HD
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", SONY_PIX_HD
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", HBO_HD
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", COLORS_INFINITY_HD
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", DISCOVERY_BANGLA_HD
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", ANIMAL_PLANET_HD
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF: -1 group-title="BDIX_NEW_HD", NATIONAL_GEOGRAPHIC_HD
+http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF: -1 group-title="INTERNET_TV_BDIX", Sony Aath
 http://103.167.190.250/hls/Sony_Aath.m3u8
 #EXTINF: -1 group-title="INTERNET_TV_BDIX", Star Jalsha HD
@@ -407,6 +351,100 @@ http://103.136.200.246:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="AMRBD_TV_BDIX_HD", bflix
 http://103.136.200.246:8082/bflix/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="1" group-title="BDIX_MIXED_HD", T_SPORTS_HD
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Gazi TV(amrbd)
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", ATN Bangla(amrbd)
+http://103.136.200.246:8082/ATN-Bangla/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Somoy TV(amrbd)
+http://103.136.200.246:8082/Somoy-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Ekahtor TV(amrbd)
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", ATN News(amrbd)
+http://103.136.200.246:8082/Atn-News/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Independent TV(amrbd)
+http://103.136.200.246:8082/Independent-Tv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Channel24(amrbd)
+http://103.136.200.246:8082/Channel24/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", News24(amrbd)
+http://103.136.200.246:8082/News24bd/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", DBC News(amrbd)
+http://103.136.200.246:8082/DBC-NEWS/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Channel I(amrbd)
+http://103.136.200.246:8082/Channel-i/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Ekushay TV(amrbd)
+http://103.136.200.246:8082/Ekushey-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", NTV(amrbd)
+http://103.136.200.246:8082/Ntv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", RTV(amrbd)
+http://103.136.200.246:8082/RTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", SATV(amrbd)
+http://103.136.200.246:8082/SATV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Mohona TV(amrbd)
+http://103.136.200.246:8082/MohonaTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", My TV(amrbd)
+http://103.136.200.246:8082/MyTV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Anando TV(amrbd)
+http://103.136.200.246:8082/anandotv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Bangla Vision(amrbd)
+http://103.136.200.246:8082/BanglaVision/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Nagorik TV(amrbd)
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Bijoy TV(amrbd)
+http://103.136.200.246:8082/BijoyTv/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Boishakhi TV(amrbd)
+http://103.136.200.246:8082/Boishakhi/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Nexus TV HD
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Gaan Bangla(amrbd)
+http://103.136.200.246:8082/GaanBangla/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony Aath(amrbd)
+http://103.136.200.246:8082/Sonyaath/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Star Jalsha(amrbd)
+http://103.136.200.246:8082/Star-Jalsha/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Zee Bangla HD(amrbd)
+http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Colors Bangla(amrbd)
+http://103.136.200.246:8082/colorsbangla/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Jalsha Movies HD(amrbd)
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony TV(amrbd)
+http://103.136.200.246:8082/SonyTVHD/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Colors(amrbd)
+http://103.136.200.246:8082/colorsindia/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Zee Cinema HD(amrbd)
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Star Gold(amrbd)
+http://103.136.200.246:8082/StarGold/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", SONY Max(amrbd)
+http://103.136.200.246:8082/Sony-Max/index.m3u8
+#EXTINF: -1 group-title="BDIX_MIXED_HD", Sony Pix(amrbd)
+http://103.136.200.246:8082/SonyPix/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/sUpvnQ7.png" group-title="BDIX_MIXED_HD", GP:E-&TV HD
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/sUpvnQ7.png" group-title="BDIX_MIXED_HD", GP:E-&TV HD
+http://208.86.19.13:81/703.stream/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="BDIX_MIXED_HD", GP:E-Star Bharat HD
+http://89.187.162.109/STARBHARATHD/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="BDIX_MIXED_HD", GP:E-Star Bharat HD
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/TBwHZ9k.png" group-title="BDIX_MIXED_HD", GP:B-STAR PLUS
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yUla5jG.png" group-title="BDIX_MIXED_HD", GP:C-STAR PLUS
+http://89.187.162.109/STARPLUSHD/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="BDIX_MIXED_HD", GP:B-ZEE TV HD
+http://208.115.215.42:80/ZEE_Tv_HD_02/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="BDIX_MIXED_HD", GP:C-ZEE TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="BDIX_MIXED_HD", GP:B-Sony HD
+http://103.136.200.246:8082/SonyTVHD/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="BDIX_MIXED_HD", GP:D-SONY HD
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="BDIX_MIXED_HD", GP:B-Sony Sab HD
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="BDIX_MIXED_HD", GP:D-SONY SAB HD
+http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF: -1 group-title="SPORTS_BDIX_HD", Star Sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF: -1 group-title="SPORTS_BDIX_HD", Star Sports 2
